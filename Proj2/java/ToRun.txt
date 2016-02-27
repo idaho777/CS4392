@@ -1,0 +1,2 @@
+javac -d bin/ src/com/hw/*.java
+java -cp bin/ com.hw.PegGameRunner -s (5-9)

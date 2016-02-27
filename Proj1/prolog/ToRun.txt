@@ -1,0 +1,2 @@
+prolog -o exe -g main -c PrologPegBoard.pl
+./exe -s (number from 5-10)

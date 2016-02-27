@@ -13,4 +13,5 @@ Project 1 consisted of a brute force algorithm.
 The prolog implementation performed a dumb BFS.
 
 
-Project 2 (Not listed) performed concurrent programming.
+Project 2 performed concurrent programming.
+- Algorithm changes were made to make them more optimized. (See Java)
